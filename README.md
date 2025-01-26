@@ -5,8 +5,8 @@
 
 ![Rust - Rust](https://img.shields.io/badge/Rust-3C3C3D?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity - Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript - JavaScript](https://img.shields.io/badge/JavaScript-3C3C3D?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python - Python](https://img.shields.io/badge/Python-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
 ![Ethereum - Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Open Zeppelin - Open Zeppelin](https://img.shields.io/badge/OpenZeppelin-3C3C3D?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 ![Chainlink - Chainlink](https://img.shields.io/badge/chainlink-3C3C3D?style=for-the-badge&logo=chainlink&logoColor=white)
-![JavaScript - JavaScript](https://img.shields.io/badge/JavaScript-3C3C3D?style=for-the-badge&logo=javascript&logoColor=white)
