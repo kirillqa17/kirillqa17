@@ -3,11 +3,11 @@
 
 
 
-![Rust - Rust](https://img.shields.io/badge/Rust-Rust-ed9004?logo=rust&logoColor=ed9004)
+![Rust - Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Solidity - Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![Python - Python](https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=ed9004)
+![Python - Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Ethereum - Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Open - Zeppelin](https://img.shields.io/badge/OpenZeppelin-ed9004?logo=OpenZeppelin&logoColor=ed9004)
+![Open - Zeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 ![Chainlink - Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Linux - Linux](https://img.shields.io/badge/Linux-Linux-ed9004?logo=linux&logoColor=ed9004)
+![Linux - Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C++ - C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
